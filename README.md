@@ -12,7 +12,7 @@ Please read through the notebook files in the following order
 Note that there're 2 cleaned version of the dataset, which would be examined separately for comparison purpose.
 ## Contributor
 Hoang Pham Viet Quang. Matric Number: U2323602H  
-Luu Minh Thang. Matric Number: 
+Luu Minh Thang. Matric Number: U2323630J
 ## Problem
 Data set: Rain in Australia
 https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
@@ -26,4 +26,10 @@ XGBoost
 ## Conclusion
 Through this effort to predict rain by data analysis and statistical modelling, we've found that:
 *
+* 
+* XGBoost and MLP perform the best on our dataset, while Logistic Regresion perform not really good compared to the previous two models.
+* Logistic Regression did not perform well with non-linearly correlated variables
+* When we train our MLP model on our dataset for 100 epochs, our model start to be overfit.
+* Using KNN Imputation for filling data can help we got a huge dataset without removing too much data. 
+  
 ## Reference
