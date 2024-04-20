@@ -19,8 +19,10 @@ https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
 ## Model Used
 Logistic Regression
 > Fitting 1 curved line into our dataset
+
 Multilayer Perceptron
 > Using shallow neural network to fit our dataset
+
 XGBoost
 > Building many scaled tree factors that ultimately, leading to our prediction
 ## Conclusion
