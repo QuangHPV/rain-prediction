@@ -7,8 +7,8 @@ Please read through the notebook files in the following order
 * Data_Cleaning_and_EDA.ipynb
 * data_cleaning_eda_new.ipynb
 * Logistic_Regression_Weather_AUS.ipynb
-* Multilayer_Perceptron.ipynb
 * XGBoost_Weather_AUS.ipynb
+* Multilayer_Perceptron.ipynb
 Note that there're 2 cleaned version of the dataset, which would be examined separately for comparison purpose.
 ## Contributor
 Hoang Pham Viet Quang. Matric Number: U2323602H  
