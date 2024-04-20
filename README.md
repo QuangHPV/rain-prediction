@@ -17,13 +17,13 @@ Luu Minh Thang. Matric Number: U2323630J
 Data set: Rain in Australia
 https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
 ## Model Used
-Logistic Regression
+Logistic Regression 📈
 > Fitting 1 curved line into our dataset
 
-Multilayer Perceptron
+Multilayer Perceptron 🤖
 > Using shallow neural network to fit our dataset
 
-XGBoost
+XGBoost 🌳
 > Building many scaled tree factors that ultimately, leading to our prediction
 ## Conclusion
 Through this effort to predict rain by data analysis and statistical modelling, we've found that:
