@@ -4,7 +4,6 @@ In this project, we'll explore a comprehensive analysis of a weather dataset.
 Our objective is to clean this data, perform exploratory data analysis (EDA), and apply several machine learning models to predict whether it will rain tomorrow in Australia.  
 Please read through the notebook files in the following order
 * Data_Cleaning_KNN.ipynb
-* Data_Cleaning_and_EDA.ipynb
 * data_cleaning_eda_new.ipynb
 * Logistic_Regression_Weather_AUS.ipynb
 * XGBoost_Weather_AUS.ipynb
