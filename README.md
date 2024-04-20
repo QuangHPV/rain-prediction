@@ -1,4 +1,4 @@
-# Rain Prediction 🤖🤖🤖
+# Rain Prediction in Australia 🌦️⛈️🌞☀️
 ## About
 In this project, we'll explore a comprehensive analysis of a weather dataset.  
 Our objective is to clean this data, perform exploratory data analysis (EDA), and apply several machine learning models to predict whether it will rain tomorrow in Australia.  
