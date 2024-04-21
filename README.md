@@ -42,7 +42,7 @@ Through this effort to predict rain by data analysis and statistical modelling, 
 * Different optimizer, overfitting vs underfitting.
 
 ## Reference
-Rain in Australia. (2020, December 11). Kaggle. https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
-XGBoost Documentation — xgboost 2.0.3 documentation. (n.d.). https://xgboost.readthedocs.io/en/stable/
-PyTorch documentation — PyTorch 2.2 documentation. (n.d.). https://pytorch.org/docs/stable/index.html
-Supervised learning. (n.d.). Scikit-learn. https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+Rain in Australia. (2020, December 11). Kaggle. https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package  
+XGBoost Documentation — xgboost 2.0.3 documentation. (n.d.). https://xgboost.readthedocs.io/en/stable/  
+PyTorch documentation — PyTorch 2.2 documentation. (n.d.). https://pytorch.org/docs/stable/index.html  
+Supervised learning. (n.d.). Scikit-learn. https://scikit-learn.org/stable/supervised_learning.html#supervised-learning  
