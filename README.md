@@ -11,9 +11,9 @@ Please read through the notebook files in the following order
 
 Note that there're 2 cleaned version of the dataset, which would be examined separately for comparison purpose.
 ## Contributor
-* @QuangHPV - Data Cleaning, Exploratory Data Analysis
-* @Devininthelab - Logistic Regression, XGBoost, Multilayer Perception
-Luu Minh Thang. Matric Number: U2323630J
+* @QuangHPV -  - Data Cleaning, Exploratory Data Analysis
+* @Devininthelab - Luu Minh Thang. Matric Number: U2323630J - Logistic Regression, XGBoost, Multilayer Perception
+
 ## Problem
 Data set: Rain in Australia
 https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
@@ -37,3 +37,6 @@ Through this effort to predict rain by data analysis and statistical modelling, 
 * Various machine learning model from regression to tree-based to neural network
 * How to clean complex data: missing values and imputation, outlier removal, etc.
 ## Reference
+https://xgboost.readthedocs.io/en/stable/
+https://pytorch.org/docs/stable/index.html
+https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
