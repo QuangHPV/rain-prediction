@@ -46,3 +46,5 @@ Rain in Australia. (2020, December 11). Kaggle. https://www.kaggle.com/datasets/
 XGBoost Documentation — xgboost 2.0.3 documentation. (n.d.). https://xgboost.readthedocs.io/en/stable/  
 PyTorch documentation — PyTorch 2.2 documentation. (n.d.). https://pytorch.org/docs/stable/index.html  
 Supervised learning. (n.d.). Scikit-learn. https://scikit-learn.org/stable/supervised_learning.html#supervised-learning  
+Brownlee, J. (2020, August 17). KNN imputation for missing values in machine learning. MachineLearningMastery.com. https://machinelearningmastery.com/knn-imputation-for-missing-values-in-machine-learning/  
+Wikipedia contributors. (2024, February 6). Interpolation - Wikipedia. https://en.wikipedia.org/wiki/Interpolation  
