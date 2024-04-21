@@ -16,7 +16,7 @@ Note that there're 2 cleaned version of the dataset, which would be examined sep
 
 ## Problem
 Dataset: [Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)  
-Context: Predict next-day rain by training classification models on the target variable RainTomorrow.
+Context: Predict next-day rain by training classification models on the target variable RainTomorrow.  
 Problem Definition: To predict whether it will rain tomorrow based on other variables
 
 ## Model Used
